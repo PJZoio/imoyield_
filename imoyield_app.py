@@ -5,8 +5,13 @@ import numpy as np
 import json
 import pydeck as pdk
 from pathlib import Path
+ROOT = Path(__file__).parent
+ASSETS_DIR = ROOT / "assets"
+DATA_DIR = ROOT / "data"
 
-st.set_page_config(page_title="ImoYield – Mapa de Rentabilidade", page_icon="assets/favicon.png", layout="wide")
+st.set_page_config(page_title="ImoYield", page_icon=str(ASSETS_DIR / "favicon.png"))
+st.sidebar.image(str(ASSETS_DIR / "logo.png"), use_container_width=True)
+ayout="wide")
 
 DATA_DIR = Path(__file__).parent / "data"
 
