@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "freguesia": "Póvoa de Santo Adrião e Olival Basto",
+        "concelho": "—"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.177158,
+              38.780178
+            ],
+            [
+              -9.157158,
+              38.780178
+            ],
+            [
+              -9.157158,
+              38.800177999999995
+            ],
+            [
+              -9.177158,
+              38.800177999999995
+            ],
+            [
+              -9.177158,
+              38.780178
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "freguesia": "Charneca de Caparica e Sobreda",
+        "concelho": "—"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.208,
+              38.61
+            ],
+            [
+              -9.188,
+              38.61
+            ],
+            [
+              -9.188,
+              38.629999999999995
+            ],
+            [
+              -9.208,
+              38.629999999999995
+            ],
+            [
+              -9.208,
+              38.61
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "freguesia": "Porto Salvo",
+        "concelho": "—"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.322,
+              38.717
+            ],
+            [
+              -9.302,
+              38.717
+            ],
+            [
+              -9.302,
+              38.736999999999995
+            ],
+            [
+              -9.322,
+              38.736999999999995
+            ],
+            [
+              -9.322,
+              38.717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "freguesia": "Olivais",
+        "concelho": "—"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.128,
+              38.758
+            ],
+            [
+              -9.108,
+              38.758
+            ],
+            [
+              -9.108,
+              38.778
+            ],
+            [
+              -9.128,
+              38.778
+            ],
+            [
+              -9.128,
+              38.758
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

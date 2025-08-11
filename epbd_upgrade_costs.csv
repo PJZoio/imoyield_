@@ -1,0 +1,16 @@
+tipologia,classe_alvo,custo_eur_m2
+Apartamento,C,80
+Apartamento,B,150
+Apartamento,A,250
+Moradia,C,120
+Moradia,B,220
+Moradia,A,350
+Garagem/Box,C,0
+Garagem/Box,B,0
+Garagem/Box,A,0
+Lugar Garagem,C,0
+Lugar Garagem,B,0
+Lugar Garagem,A,0
+Arrecadação,C,30
+Arrecadação,B,60
+Arrecadação,A,90

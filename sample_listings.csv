@@ -1,0 +1,5 @@
+id,titulo,tipologia,freguesia,concelho,preco_venda,area_m2,renda_mensal,classe_energetica,consumo_eletricidade_kwh_ano,consumo_gas_kwh_ano,consumo_outros_kwh_ano,vetor_eletricidade_%,vetor_gas_%,vetor_outros_%,lat,lon,fonte_url
+apt_odivelas_t2_olival_basto,Apartamento T2 – Olival Basto,Apartamento,Póvoa de Santo Adrião e Olival Basto,Odivelas,194470.59,51,580.0,,,,,100,0,0,38.790178,-9.167158,Relatório de Avaliação (2025)
+box_quintinhas_charneca,Box 15 m² – Quintinhas (Charneca),Garagem/Box,Charneca de Caparica e Sobreda,Almada,29990.0,15,210.0,,,,,100,0,0,38.62,-9.198,Shortlist – Quintinhas (2025)
+lugar_porto_salvo,Lugar – Porto Salvo (próx. Lagoas),Lugar Garagem,Porto Salvo,Oeiras,12000.0,12,100.0,,,,,100,0,0,38.727,-9.312,Shortlist – Porto Salvo (2025)
+lugar_olivais_lx,Lugar – Olivais (Lisboa),Lugar Garagem,Olivais,Lisboa,17500.0,12,90.0,,,,,100,0,0,38.768,-9.118,Amostra Olivais (2025)
